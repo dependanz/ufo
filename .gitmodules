@@ -1,0 +1,3 @@
+[submodule "cufo"]
+	path = cufo
+	url = https://github.com/dependanz/cufo.git
